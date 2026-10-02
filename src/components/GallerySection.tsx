@@ -40,6 +40,7 @@ export const GallerySection: React.FC = () => {
                       fallbackSrc={slot.fallbackUrl}
                       alt={slot.title}
                       fallbackTitle={slot.title}
+                      objectPosition={slot.objectPosition || 'center'}
                       className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                     />
 

@@ -18,8 +18,9 @@ export const ImageWithFallback: React.FC<ImageWithFallbackProps> = ({
   fallbackGradient = 'from-purple-600 via-fuchsia-600 to-pink-500',
   containerClassName = '',
   className = '',
+  objectPosition = 'center',
   ...props
-}) => {
+}: ImageWithFallbackProps & { objectPosition?: string }) => {
   const [currentSrc, setCurrentSrc] = useState<string | undefined>(src);
   const [hasTriedFallback, setHasTriedFallback] = useState(false);
   const [hasError, setHasError] = useState(false);
@@ -45,6 +46,7 @@ export const ImageWithFallback: React.FC<ImageWithFallbackProps> = ({
             loading="lazy"
             onLoad={() => setIsLoaded(true)}
             onError={handleError}
+            style={{ objectPosition }}
             className={`w-full h-full object-cover transition-opacity duration-300 ${
               isLoaded ? 'opacity-100' : 'opacity-0'
             } ${className}`}
