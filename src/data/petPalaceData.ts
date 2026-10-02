@@ -62,7 +62,7 @@ export const FOUR_GALLERY_SLOTS: GalleryPhotoSlot[] = [
     category: 'Kitten',
     imageUrl: '/pet1.jpeg',
     fallbackUrl: 'https://images.unsplash.com/photo-1574158622682-e40e69881006?auto=format&fit=crop&w=800&q=80',
-    objectPosition: 'center 80%',
+    objectPosition: 'center',
   },
   {
     id: 'slot-2',
@@ -70,7 +70,7 @@ export const FOUR_GALLERY_SLOTS: GalleryPhotoSlot[] = [
     category: 'Cat',
     imageUrl: '/pet2.jpeg',
     fallbackUrl: 'https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?auto=format&fit=crop&w=800&q=80',
-    objectPosition: 'center 25%',
+    objectPosition: 'center',
   },
   {
     id: 'slot-3',
