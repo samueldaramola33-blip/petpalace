@@ -1,0 +1,6 @@
+{
+  "name": "Pet Palace Veterinary Services",
+  "description": "Premium purebred pet sales, international importation & exportation, veterinary care, luxury pet accessories, and safe nationwide delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

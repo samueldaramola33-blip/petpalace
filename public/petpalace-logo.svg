@@ -1,0 +1,70 @@
+<svg viewBox="0 0 320 340" xmlns="http://www.w3.org/2000/svg">
+  <rect width="320" height="340" fill="#000000" />
+  
+  <!-- Doghouse -->
+  <g transform="translate(80, 8)">
+    <path d="M80 6L12 60H32L80 22L128 60H148L80 6Z" fill="#22C7BE" />
+    <path d="M26 58L80 16L134 58V126H26V58Z" fill="#22C7BE" />
+    <line x1="28" y1="70" x2="132" y2="70" stroke="#000000" stroke-width="2.5" stroke-linecap="round" />
+    <line x1="28" y1="86" x2="132" y2="86" stroke="#000000" stroke-width="2.5" stroke-linecap="round" />
+    <line x1="28" y1="102" x2="132" y2="102" stroke="#000000" stroke-width="2.5" stroke-linecap="round" />
+    <circle cx="80" cy="48" r="16" stroke="#000000" stroke-width="3" fill="#22C7BE" />
+    <ellipse cx="80" cy="51" rx="5" ry="4" fill="#000000" />
+    <circle cx="74" cy="43" r="2" fill="#000000" />
+    <circle cx="80" cy="40.5" r="2" fill="#000000" />
+    <circle cx="86" cy="43" r="2" fill="#000000" />
+    <path d="M62 126V96C62 85 71 80 80 80C89 80 98 85 98 96V126H62Z" fill="#000000" />
+  </g>
+
+  <!-- Floating Paws -->
+  <g transform="translate(32, 160)">
+    <ellipse cx="14" cy="16" rx="8" ry="6.5" fill="#22C7BE" />
+    <circle cx="4" cy="6" r="3.2" fill="#22C7BE" />
+    <circle cx="13" cy="2.5" r="3.2" fill="#22C7BE" />
+    <circle cx="22" cy="7" r="3.2" fill="#22C7BE" />
+  </g>
+  <g transform="translate(245, 142)">
+    <ellipse cx="16" cy="18" rx="9" ry="7.5" fill="#22C7BE" />
+    <circle cx="5" cy="7" r="3.6" fill="#22C7BE" />
+    <circle cx="15" cy="3" r="3.6" fill="#22C7BE" />
+    <circle cx="25" cy="8" r="3.6" fill="#22C7BE" />
+  </g>
+  <g transform="translate(268, 185)">
+    <ellipse cx="16" cy="18" rx="9" ry="7.5" fill="#22C7BE" />
+    <circle cx="5" cy="7" r="3.6" fill="#22C7BE" />
+    <circle cx="15" cy="3" r="3.6" fill="#22C7BE" />
+    <circle cx="25" cy="8" r="3.6" fill="#22C7BE" />
+  </g>
+
+  <!-- "Pet" -->
+  <g transform="translate(0, 0)">
+    <path d="M84 140H118C132 140 142 148 142 163C142 178 132 186 118 186H102V202H84V140ZM102 153V173H116C122 173 126 169 126 163C126 157 122 153 116 153H102Z" fill="#22C7BE" />
+    <g transform="translate(104, 150)">
+      <ellipse cx="10" cy="12" rx="4.5" ry="3.5" fill="#000000" />
+      <circle cx="5" cy="5" r="1.8" fill="#000000" />
+      <circle cx="10" cy="3" r="1.8" fill="#000000" />
+      <circle cx="15" cy="5" r="1.8" fill="#000000" />
+    </g>
+    <path d="M198 178C198 162 186 152 172 152C157 152 147 163 147 178C147 193 158 204 173 204C184 204 192 198 196 190L183 183C181 187 178 190 173 190C167 190 163 186 162 180H198V178ZM162 171C163 166 167 162 172 162C178 162 182 166 183 171H162Z" fill="#22C7BE" />
+    <path d="M220 145V155H210V167H220V193C220 199 223 203 230 203C234 203 237 202 239 201L237 188C236 188 235 189 233 189C231 189 230 188 230 184V167H240V155H230V145H220Z" fill="#22C7BE" />
+  </g>
+
+  <!-- "Palace" -->
+  <g transform="translate(6, 75)">
+    <path d="M18 140H52C66 140 76 148 76 163C76 178 66 186 52 186H36V204H18V140ZM36 153V173H50C56 173 60 169 60 163C60 157 56 153 50 153H36Z" fill="#22C7BE" />
+    <g transform="translate(38, 150)">
+      <ellipse cx="10" cy="12" rx="4.5" ry="3.5" fill="#000000" />
+      <circle cx="5" cy="5" r="1.8" fill="#000000" />
+      <circle cx="10" cy="3" r="1.8" fill="#000000" />
+      <circle cx="15" cy="5" r="1.8" fill="#000000" />
+    </g>
+    <path d="M116 178V166C116 158 110 152 101 152C93 152 87 157 84 163L95 169C96 166 98 164 101 164C104 164 106 166 106 169V172C103 172 99 172 95 173C85 175 80 181 80 189C80 198 87 204 96 204C102 204 106 200 109 196L110 203H119L117 178H116ZM106 188C106 193 101 195 97 195C93 195 91 192 91 189C91 184 95 182 101 181C103 181 105 181 106 181V188Z" fill="#22C7BE" />
+    <path d="M140 140H153V203H140V140Z" fill="#22C7BE" />
+    <path d="M180 178V166C180 158 174 152 165 152C157 152 151 157 148 163L159 169C160 166 162 164 165 164C168 164 170 166 170 169V172C167 172 163 172 159 173C149 175 144 181 144 189C144 198 151 204 160 204C166 204 170 200 173 196L174 203H183L181 178H180ZM170 188C170 193 165 195 161 195C157 195 155 192 155 189C155 184 159 182 165 181C167 181 169 181 170 181V188Z" fill="#22C7BE" />
+    <path d="M228 165L217 170C215 166 213 164 209 164C203 164 199 169 199 178C199 187 203 192 209 192C213 192 216 189 218 185L229 191C225 199 218 204 208 204C193 204 183 193 183 178C183 163 193 152 208 152C217 152 224 157 228 165Z" fill="#22C7BE" />
+    <path d="M268 178C268 162 256 152 242 152C227 152 217 163 217 178C217 193 228 204 243 204C254 204 262 198 266 190L253 183C251 187 248 190 243 190C237 190 233 186 232 180H268V178ZM232 171C233 166 237 162 242 162C248 162 252 166 253 171H232Z" fill="#22C7BE" />
+  </g>
+
+  <!-- Phone Number -->
+  <text x="160" y="318" text-anchor="middle" fill="#22C7BE" font-size="34" font-weight="900" font-family="system-ui, -apple-system, sans-serif" letter-spacing="3.5">07065832371</text>
+</svg>
